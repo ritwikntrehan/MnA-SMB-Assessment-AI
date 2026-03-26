@@ -1,0 +1,7 @@
+[
+  {"id":"us-midwest","name":"US Midwest","type":"region","note":"Manufacturing-heavy corridor."},
+  {"id":"us-southeast","name":"US Southeast","type":"region","note":"Growth markets with logistics density."},
+  {"id":"us-northeast","name":"US Northeast","type":"region","note":"Mature industrial and services base."},
+  {"id":"us-texas","name":"Texas","type":"state","note":"Energy, logistics, and industrial demand."},
+  {"id":"us-west","name":"US West","type":"region","note":"Mixed industrial and technology exposure."}
+]

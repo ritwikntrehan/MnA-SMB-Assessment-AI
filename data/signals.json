@@ -1,0 +1,338 @@
+[
+  {
+    "id": "s1",
+    "companyId": "c1",
+    "type": "digital",
+    "label": "Web and digital footprint",
+    "strengthLabel": "Developing",
+    "note": "Public-facing digital cues align with current process maturity estimate."
+  },
+  {
+    "id": "s2",
+    "companyId": "c1",
+    "type": "operations",
+    "label": "Operating process consistency",
+    "strengthLabel": "Strong",
+    "note": "Observed indicators suggest variable but improvable discipline across core workflows."
+  },
+  {
+    "id": "s3",
+    "companyId": "c1",
+    "type": "market",
+    "label": "Commercial and market traction",
+    "strengthLabel": "Moderate",
+    "note": "Demand and positioning signals imply actionable but not definitive market momentum."
+  },
+  {
+    "id": "s4",
+    "companyId": "c2",
+    "type": "digital",
+    "label": "Web and digital footprint",
+    "strengthLabel": "Moderate",
+    "note": "Public-facing digital cues align with current process maturity estimate."
+  },
+  {
+    "id": "s5",
+    "companyId": "c2",
+    "type": "operations",
+    "label": "Operating process consistency",
+    "strengthLabel": "Mixed",
+    "note": "Observed indicators suggest variable but improvable discipline across core workflows."
+  },
+  {
+    "id": "s6",
+    "companyId": "c2",
+    "type": "market",
+    "label": "Commercial and market traction",
+    "strengthLabel": "Moderate",
+    "note": "Demand and positioning signals imply actionable but not definitive market momentum."
+  },
+  {
+    "id": "s7",
+    "companyId": "c3",
+    "type": "digital",
+    "label": "Web and digital footprint",
+    "strengthLabel": "Developing",
+    "note": "Public-facing digital cues align with current process maturity estimate."
+  },
+  {
+    "id": "s8",
+    "companyId": "c3",
+    "type": "operations",
+    "label": "Operating process consistency",
+    "strengthLabel": "Mixed",
+    "note": "Observed indicators suggest variable but improvable discipline across core workflows."
+  },
+  {
+    "id": "s9",
+    "companyId": "c3",
+    "type": "market",
+    "label": "Commercial and market traction",
+    "strengthLabel": "Moderate",
+    "note": "Demand and positioning signals imply actionable but not definitive market momentum."
+  },
+  {
+    "id": "s10",
+    "companyId": "c4",
+    "type": "digital",
+    "label": "Web and digital footprint",
+    "strengthLabel": "Developing",
+    "note": "Public-facing digital cues align with current process maturity estimate."
+  },
+  {
+    "id": "s11",
+    "companyId": "c4",
+    "type": "operations",
+    "label": "Operating process consistency",
+    "strengthLabel": "Strong",
+    "note": "Observed indicators suggest variable but improvable discipline across core workflows."
+  },
+  {
+    "id": "s12",
+    "companyId": "c4",
+    "type": "market",
+    "label": "Commercial and market traction",
+    "strengthLabel": "Moderate",
+    "note": "Demand and positioning signals imply actionable but not definitive market momentum."
+  },
+  {
+    "id": "s13",
+    "companyId": "c5",
+    "type": "digital",
+    "label": "Web and digital footprint",
+    "strengthLabel": "Moderate",
+    "note": "Public-facing digital cues align with current process maturity estimate."
+  },
+  {
+    "id": "s14",
+    "companyId": "c5",
+    "type": "operations",
+    "label": "Operating process consistency",
+    "strengthLabel": "Mixed",
+    "note": "Observed indicators suggest variable but improvable discipline across core workflows."
+  },
+  {
+    "id": "s15",
+    "companyId": "c5",
+    "type": "market",
+    "label": "Commercial and market traction",
+    "strengthLabel": "Strong",
+    "note": "Demand and positioning signals imply actionable but not definitive market momentum."
+  },
+  {
+    "id": "s16",
+    "companyId": "c6",
+    "type": "digital",
+    "label": "Web and digital footprint",
+    "strengthLabel": "Moderate",
+    "note": "Public-facing digital cues align with current process maturity estimate."
+  },
+  {
+    "id": "s17",
+    "companyId": "c6",
+    "type": "operations",
+    "label": "Operating process consistency",
+    "strengthLabel": "Strong",
+    "note": "Observed indicators suggest variable but improvable discipline across core workflows."
+  },
+  {
+    "id": "s18",
+    "companyId": "c6",
+    "type": "market",
+    "label": "Commercial and market traction",
+    "strengthLabel": "Moderate",
+    "note": "Demand and positioning signals imply actionable but not definitive market momentum."
+  },
+  {
+    "id": "s19",
+    "companyId": "c7",
+    "type": "digital",
+    "label": "Web and digital footprint",
+    "strengthLabel": "Moderate",
+    "note": "Public-facing digital cues align with current process maturity estimate."
+  },
+  {
+    "id": "s20",
+    "companyId": "c7",
+    "type": "operations",
+    "label": "Operating process consistency",
+    "strengthLabel": "Strong",
+    "note": "Observed indicators suggest variable but improvable discipline across core workflows."
+  },
+  {
+    "id": "s21",
+    "companyId": "c7",
+    "type": "market",
+    "label": "Commercial and market traction",
+    "strengthLabel": "Strong",
+    "note": "Demand and positioning signals imply actionable but not definitive market momentum."
+  },
+  {
+    "id": "s22",
+    "companyId": "c8",
+    "type": "digital",
+    "label": "Web and digital footprint",
+    "strengthLabel": "Moderate",
+    "note": "Public-facing digital cues align with current process maturity estimate."
+  },
+  {
+    "id": "s23",
+    "companyId": "c8",
+    "type": "operations",
+    "label": "Operating process consistency",
+    "strengthLabel": "Mixed",
+    "note": "Observed indicators suggest variable but improvable discipline across core workflows."
+  },
+  {
+    "id": "s24",
+    "companyId": "c8",
+    "type": "market",
+    "label": "Commercial and market traction",
+    "strengthLabel": "Strong",
+    "note": "Demand and positioning signals imply actionable but not definitive market momentum."
+  },
+  {
+    "id": "s25",
+    "companyId": "c9",
+    "type": "digital",
+    "label": "Web and digital footprint",
+    "strengthLabel": "Developing",
+    "note": "Public-facing digital cues align with current process maturity estimate."
+  },
+  {
+    "id": "s26",
+    "companyId": "c9",
+    "type": "operations",
+    "label": "Operating process consistency",
+    "strengthLabel": "Strong",
+    "note": "Observed indicators suggest variable but improvable discipline across core workflows."
+  },
+  {
+    "id": "s27",
+    "companyId": "c9",
+    "type": "market",
+    "label": "Commercial and market traction",
+    "strengthLabel": "Moderate",
+    "note": "Demand and positioning signals imply actionable but not definitive market momentum."
+  },
+  {
+    "id": "s28",
+    "companyId": "c10",
+    "type": "digital",
+    "label": "Web and digital footprint",
+    "strengthLabel": "Moderate",
+    "note": "Public-facing digital cues align with current process maturity estimate."
+  },
+  {
+    "id": "s29",
+    "companyId": "c10",
+    "type": "operations",
+    "label": "Operating process consistency",
+    "strengthLabel": "Mixed",
+    "note": "Observed indicators suggest variable but improvable discipline across core workflows."
+  },
+  {
+    "id": "s30",
+    "companyId": "c10",
+    "type": "market",
+    "label": "Commercial and market traction",
+    "strengthLabel": "Moderate",
+    "note": "Demand and positioning signals imply actionable but not definitive market momentum."
+  },
+  {
+    "id": "s31",
+    "companyId": "c11",
+    "type": "digital",
+    "label": "Web and digital footprint",
+    "strengthLabel": "Developing",
+    "note": "Public-facing digital cues align with current process maturity estimate."
+  },
+  {
+    "id": "s32",
+    "companyId": "c11",
+    "type": "operations",
+    "label": "Operating process consistency",
+    "strengthLabel": "Strong",
+    "note": "Observed indicators suggest variable but improvable discipline across core workflows."
+  },
+  {
+    "id": "s33",
+    "companyId": "c11",
+    "type": "market",
+    "label": "Commercial and market traction",
+    "strengthLabel": "Moderate",
+    "note": "Demand and positioning signals imply actionable but not definitive market momentum."
+  },
+  {
+    "id": "s34",
+    "companyId": "c12",
+    "type": "digital",
+    "label": "Web and digital footprint",
+    "strengthLabel": "Developing",
+    "note": "Public-facing digital cues align with current process maturity estimate."
+  },
+  {
+    "id": "s35",
+    "companyId": "c12",
+    "type": "operations",
+    "label": "Operating process consistency",
+    "strengthLabel": "Mixed",
+    "note": "Observed indicators suggest variable but improvable discipline across core workflows."
+  },
+  {
+    "id": "s36",
+    "companyId": "c12",
+    "type": "market",
+    "label": "Commercial and market traction",
+    "strengthLabel": "Moderate",
+    "note": "Demand and positioning signals imply actionable but not definitive market momentum."
+  },
+  {
+    "id": "s37",
+    "companyId": "c13",
+    "type": "digital",
+    "label": "Web and digital footprint",
+    "strengthLabel": "Moderate",
+    "note": "Public-facing digital cues align with current process maturity estimate."
+  },
+  {
+    "id": "s38",
+    "companyId": "c13",
+    "type": "operations",
+    "label": "Operating process consistency",
+    "strengthLabel": "Strong",
+    "note": "Observed indicators suggest variable but improvable discipline across core workflows."
+  },
+  {
+    "id": "s39",
+    "companyId": "c13",
+    "type": "market",
+    "label": "Commercial and market traction",
+    "strengthLabel": "Strong",
+    "note": "Demand and positioning signals imply actionable but not definitive market momentum."
+  },
+  {
+    "id": "s40",
+    "companyId": "c14",
+    "type": "digital",
+    "label": "Web and digital footprint",
+    "strengthLabel": "Moderate",
+    "note": "Public-facing digital cues align with current process maturity estimate."
+  },
+  {
+    "id": "s41",
+    "companyId": "c14",
+    "type": "operations",
+    "label": "Operating process consistency",
+    "strengthLabel": "Mixed",
+    "note": "Observed indicators suggest variable but improvable discipline across core workflows."
+  },
+  {
+    "id": "s42",
+    "companyId": "c14",
+    "type": "market",
+    "label": "Commercial and market traction",
+    "strengthLabel": "Strong",
+    "note": "Demand and positioning signals imply actionable but not definitive market momentum."
+  }
+]

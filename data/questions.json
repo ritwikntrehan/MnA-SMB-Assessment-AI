@@ -1,0 +1,10 @@
+[
+  {"id":"q1","text":"How concentrated is revenue across top five customers?","category":"Commercial risk"},
+  {"id":"q2","text":"Are margin variances visible at job, SKU, or lane level?","category":"Operational analytics"},
+  {"id":"q3","text":"Which workflows remain spreadsheet-dependent?","category":"Digital maturity"},
+  {"id":"q4","text":"How repeatable is sales forecasting by rep/segment?","category":"Go-to-market"},
+  {"id":"q5","text":"Is management reporting weekly and action-oriented?","category":"Management process"},
+  {"id":"q6","text":"What quality escapes or rework patterns are recurring?","category":"Ops risk"},
+  {"id":"q7","text":"How robust is compliance/audit documentation?","category":"Regulatory"},
+  {"id":"q8","text":"What is the plan for founder-key-person transition?","category":"Leadership"}
+]

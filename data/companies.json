@@ -1,0 +1,457 @@
+[
+  {
+    "id": "c1",
+    "name": "TriAxis Precision",
+    "industryId": "precision-machining",
+    "geographyId": "us-midwest",
+    "sizeBand": "$8M-$15M revenue",
+    "companyType": "founder-led",
+    "website": "triaxis.example.com",
+    "shortDescription": "Job-shop precision machining for industrial OEMs.",
+    "digitalMaturityScore": 42,
+    "opsMaturityScore": 71,
+    "commercialMaturityScore": 48,
+    "marketSignalScore": 58,
+    "summary": "Operationally solid floor execution but fragmented quoting and limited CRM discipline.",
+    "topLeverIds": [
+      "pricing-discipline",
+      "sales-process",
+      "reporting-kpi"
+    ],
+    "comparableIds": [
+      "cmp-1",
+      "cmp-4"
+    ],
+    "keyQuestionIds": [
+      "q1",
+      "q3",
+      "q8"
+    ],
+    "thesis": "A disciplined pricing and pipeline process could convert strong plant execution into better margin capture.",
+    "watchouts": [
+      "Founder-centric customer relationships",
+      "Aging machine replacement schedule"
+    ]
+  },
+  {
+    "id": "c2",
+    "name": "Redwood Industrial Parts",
+    "industryId": "industrial-distribution",
+    "geographyId": "us-southeast",
+    "sizeBand": "$15M-$30M revenue",
+    "companyType": "family-owned",
+    "website": "redwoodparts.example.com",
+    "shortDescription": "Regional distributor serving maintenance-intensive plants.",
+    "digitalMaturityScore": 55,
+    "opsMaturityScore": 64,
+    "commercialMaturityScore": 59,
+    "marketSignalScore": 62,
+    "summary": "Balanced operation with room to improve inventory turns and account segmentation.",
+    "topLeverIds": [
+      "reporting-kpi",
+      "pricing-discipline",
+      "sales-process"
+    ],
+    "comparableIds": [
+      "cmp-2"
+    ],
+    "keyQuestionIds": [
+      "q2",
+      "q4"
+    ],
+    "thesis": "Improved account-level pricing governance and inside-sales cadence may lift conversion efficiency.",
+    "watchouts": [
+      "Inventory obsolescence pockets",
+      "Branch-level process variation"
+    ]
+  },
+  {
+    "id": "c3",
+    "name": "Helix Blend Labs",
+    "industryId": "specialty-chemicals",
+    "geographyId": "us-texas",
+    "sizeBand": "$10M-$25M revenue",
+    "companyType": "founder-led",
+    "website": "helixblend.example.com",
+    "shortDescription": "Custom blending and packaging for niche industrial applications.",
+    "digitalMaturityScore": 47,
+    "opsMaturityScore": 60,
+    "commercialMaturityScore": 66,
+    "marketSignalScore": 57,
+    "summary": "Commercially credible niche positioning with weaker production data visibility.",
+    "topLeverIds": [
+      "workflow-digitization",
+      "margin-expansion",
+      "reporting-kpi"
+    ],
+    "comparableIds": [
+      "cmp-3"
+    ],
+    "keyQuestionIds": [
+      "q2",
+      "q7"
+    ],
+    "thesis": "Digitized production and batch-margin analytics could improve throughput and cost control.",
+    "watchouts": [
+      "Input cost swings",
+      "Documentation depth for audits"
+    ]
+  },
+  {
+    "id": "c4",
+    "name": "North Harbor Fabrication",
+    "industryId": "contract-manufacturing",
+    "geographyId": "us-midwest",
+    "sizeBand": "$20M-$40M revenue",
+    "companyType": "light-industrial",
+    "website": "northharborfab.example.com",
+    "shortDescription": "Build-to-print assemblies for equipment manufacturers.",
+    "digitalMaturityScore": 39,
+    "opsMaturityScore": 73,
+    "commercialMaturityScore": 44,
+    "marketSignalScore": 53,
+    "summary": "Strong floor supervisors and schedule discipline but weak demand planning and sales process.",
+    "topLeverIds": [
+      "sales-process",
+      "workflow-digitization",
+      "utilization-visibility"
+    ],
+    "comparableIds": [
+      "cmp-4",
+      "cmp-1"
+    ],
+    "keyQuestionIds": [
+      "q4",
+      "q6"
+    ],
+    "thesis": "Commercial process upgrades paired with utilization dashboards could unlock latent capacity value.",
+    "watchouts": [
+      "Customer concentration above 40%",
+      "Limited structured forecasting"
+    ]
+  },
+  {
+    "id": "c5",
+    "name": "Pinnacle Route Logistics",
+    "industryId": "logistics-services",
+    "geographyId": "us-southeast",
+    "sizeBand": "$12M-$28M revenue",
+    "companyType": "service-heavy",
+    "website": "pinnacleroute.example.com",
+    "shortDescription": "Managed freight and brokerage for mid-market shippers.",
+    "digitalMaturityScore": 58,
+    "opsMaturityScore": 52,
+    "commercialMaturityScore": 63,
+    "marketSignalScore": 65,
+    "summary": "Commercially active with decent lane density; operational workflows still manual in spots.",
+    "topLeverIds": [
+      "workflow-digitization",
+      "reporting-kpi",
+      "margin-expansion"
+    ],
+    "comparableIds": [
+      "cmp-5"
+    ],
+    "keyQuestionIds": [
+      "q2",
+      "q3"
+    ],
+    "thesis": "Automating exception handling and lane-level profitability routines should stabilize margins.",
+    "watchouts": [
+      "Carrier quality variance",
+      "Working-capital pressure"
+    ]
+  },
+  {
+    "id": "c6",
+    "name": "Atlas Panel Systems",
+    "industryId": "building-products",
+    "geographyId": "us-northeast",
+    "sizeBand": "$25M-$50M revenue",
+    "companyType": "family-owned",
+    "website": "atlaspanel.example.com",
+    "shortDescription": "Specialty components for commercial fit-out projects.",
+    "digitalMaturityScore": 51,
+    "opsMaturityScore": 68,
+    "commercialMaturityScore": 54,
+    "marketSignalScore": 56,
+    "summary": "Reliable operations and lead-time performance, with pricing inconsistencies by account.",
+    "topLeverIds": [
+      "pricing-discipline",
+      "margin-expansion",
+      "reporting-kpi"
+    ],
+    "comparableIds": [
+      "cmp-6"
+    ],
+    "keyQuestionIds": [
+      "q1",
+      "q5"
+    ],
+    "thesis": "Margin quality can improve through quote controls and weekly project profitability reviews.",
+    "watchouts": [
+      "Project-cycle volatility",
+      "Channel concentration"
+    ]
+  },
+  {
+    "id": "c7",
+    "name": "ClearPath Med Components",
+    "industryId": "med-device-supply",
+    "geographyId": "us-west",
+    "sizeBand": "$18M-$35M revenue",
+    "companyType": "light-industrial",
+    "website": "clearpathmed.example.com",
+    "shortDescription": "Precision kits and components for medical device programs.",
+    "digitalMaturityScore": 62,
+    "opsMaturityScore": 70,
+    "commercialMaturityScore": 57,
+    "marketSignalScore": 67,
+    "summary": "Process discipline and quality culture are solid; commercial playbook is less mature.",
+    "topLeverIds": [
+      "sales-process",
+      "reporting-kpi",
+      "workflow-digitization"
+    ],
+    "comparableIds": [
+      "cmp-7"
+    ],
+    "keyQuestionIds": [
+      "q4",
+      "q7"
+    ],
+    "thesis": "A tighter account-development motion could complement already strong process reliability.",
+    "watchouts": [
+      "Regulatory overhead growth",
+      "Long enterprise sales cycles"
+    ]
+  },
+  {
+    "id": "c8",
+    "name": "SignalForge Ops Services",
+    "industryId": "b2b-software-service",
+    "geographyId": "us-west",
+    "sizeBand": "$6M-$12M revenue",
+    "companyType": "service-heavy",
+    "website": "signalforge.example.com",
+    "shortDescription": "Workflow-enabled compliance and reporting service for industrial clients.",
+    "digitalMaturityScore": 74,
+    "opsMaturityScore": 49,
+    "commercialMaturityScore": 69,
+    "marketSignalScore": 64,
+    "summary": "Digitally strong customer interface but inconsistent delivery management and handoff controls.",
+    "topLeverIds": [
+      "reporting-kpi",
+      "workflow-digitization",
+      "margin-expansion"
+    ],
+    "comparableIds": [
+      "cmp-8"
+    ],
+    "keyQuestionIds": [
+      "q3",
+      "q5"
+    ],
+    "thesis": "Operational rhythm and service-delivery governance are the priority levers for scale readiness.",
+    "watchouts": [
+      "Founder dependency in delivery",
+      "Inconsistent gross-margin visibility"
+    ]
+  },
+  {
+    "id": "c9",
+    "name": "Riverbend Tool & Die",
+    "industryId": "precision-machining",
+    "geographyId": "us-northeast",
+    "sizeBand": "$5M-$10M revenue",
+    "companyType": "family-owned",
+    "website": "riverbendtd.example.com",
+    "shortDescription": "Low-volume/high-mix tooling and machining.",
+    "digitalMaturityScore": 34,
+    "opsMaturityScore": 66,
+    "commercialMaturityScore": 38,
+    "marketSignalScore": 45,
+    "summary": "Craft-based execution with minimal systems infrastructure and limited commercial structure.",
+    "topLeverIds": [
+      "workflow-digitization",
+      "sales-process",
+      "pricing-discipline"
+    ],
+    "comparableIds": [
+      "cmp-1"
+    ],
+    "keyQuestionIds": [
+      "q3",
+      "q4",
+      "q8"
+    ],
+    "thesis": "Foundational CRM/ERP-lite processes could materially improve quote velocity and margin discipline.",
+    "watchouts": [
+      "Key-person production knowledge",
+      "Limited backlog predictability"
+    ]
+  },
+  {
+    "id": "c10",
+    "name": "Granite MRO Supply",
+    "industryId": "industrial-distribution",
+    "geographyId": "us-texas",
+    "sizeBand": "$30M-$60M revenue",
+    "companyType": "founder-led",
+    "website": "granitemro.example.com",
+    "shortDescription": "Multi-branch distributor focused on industrial consumables.",
+    "digitalMaturityScore": 59,
+    "opsMaturityScore": 61,
+    "commercialMaturityScore": 52,
+    "marketSignalScore": 60,
+    "summary": "Solid footprint and branch operations; commercial process and data consistency lag scale.",
+    "topLeverIds": [
+      "sales-process",
+      "reporting-kpi",
+      "pricing-discipline"
+    ],
+    "comparableIds": [
+      "cmp-2"
+    ],
+    "keyQuestionIds": [
+      "q1",
+      "q4",
+      "q5"
+    ],
+    "thesis": "Segmented sales motions and branch KPI cadence could lift organic growth quality.",
+    "watchouts": [
+      "Rep-level process variability",
+      "Discount governance leakage"
+    ]
+  },
+  {
+    "id": "c11",
+    "name": "DeltaForm Contract Works",
+    "industryId": "contract-manufacturing",
+    "geographyId": "us-southeast",
+    "sizeBand": "$14M-$26M revenue",
+    "companyType": "light-industrial",
+    "website": "deltaformcw.example.com",
+    "shortDescription": "Electromechanical sub-assembly partner.",
+    "digitalMaturityScore": 45,
+    "opsMaturityScore": 69,
+    "commercialMaturityScore": 50,
+    "marketSignalScore": 54,
+    "summary": "Ops-driven culture with stable quality metrics; commercial infrastructure underdeveloped.",
+    "topLeverIds": [
+      "utilization-visibility",
+      "sales-process",
+      "reporting-kpi"
+    ],
+    "comparableIds": [
+      "cmp-4"
+    ],
+    "keyQuestionIds": [
+      "q2",
+      "q6"
+    ],
+    "thesis": "Cross-functional KPI routines can convert operational strengths into scalable account growth.",
+    "watchouts": [
+      "Dependence on two OEM programs",
+      "Reactive production planning"
+    ]
+  },
+  {
+    "id": "c12",
+    "name": "Ironline Building Supply",
+    "industryId": "building-products",
+    "geographyId": "us-midwest",
+    "sizeBand": "$9M-$18M revenue",
+    "companyType": "family-owned",
+    "website": "ironlinebs.example.com",
+    "shortDescription": "Regional supply and light fabrication for specialty building systems.",
+    "digitalMaturityScore": 40,
+    "opsMaturityScore": 58,
+    "commercialMaturityScore": 61,
+    "marketSignalScore": 52,
+    "summary": "Commercial relationships are good; operational controls and data visibility need modernization.",
+    "topLeverIds": [
+      "workflow-digitization",
+      "margin-expansion",
+      "reporting-kpi"
+    ],
+    "comparableIds": [
+      "cmp-6"
+    ],
+    "keyQuestionIds": [
+      "q2",
+      "q5"
+    ],
+    "thesis": "Workflow and KPI modernization likely drives service consistency and margin durability.",
+    "watchouts": [
+      "Manual order-to-cash handoffs",
+      "Project timing risk"
+    ]
+  },
+  {
+    "id": "c13",
+    "name": "MedTrace Assembly Partners",
+    "industryId": "med-device-supply",
+    "geographyId": "us-northeast",
+    "sizeBand": "$22M-$38M revenue",
+    "companyType": "service-heavy",
+    "website": "medtraceap.example.com",
+    "shortDescription": "Regulated assembly and packaging services for device firms.",
+    "digitalMaturityScore": 57,
+    "opsMaturityScore": 72,
+    "commercialMaturityScore": 46,
+    "marketSignalScore": 63,
+    "summary": "High process discipline with credible quality posture; commercial engine lacks structure.",
+    "topLeverIds": [
+      "sales-process",
+      "pricing-discipline",
+      "reporting-kpi"
+    ],
+    "comparableIds": [
+      "cmp-7"
+    ],
+    "keyQuestionIds": [
+      "q4",
+      "q7"
+    ],
+    "thesis": "Commercial process formalization is the clearest path to converting execution quality into growth.",
+    "watchouts": [
+      "Contract renewal concentration",
+      "Audit-readiness staffing depth"
+    ]
+  },
+  {
+    "id": "c14",
+    "name": "OrbitLane Logistics Advisors",
+    "industryId": "logistics-services",
+    "geographyId": "us-west",
+    "sizeBand": "$7M-$14M revenue",
+    "companyType": "founder-led",
+    "website": "orbitlane.example.com",
+    "shortDescription": "Brokerage plus freight analytics support for SMB shippers.",
+    "digitalMaturityScore": 68,
+    "opsMaturityScore": 44,
+    "commercialMaturityScore": 71,
+    "marketSignalScore": 66,
+    "summary": "Strong commercial posture and demand flow but inconsistent operating controls.",
+    "topLeverIds": [
+      "workflow-digitization",
+      "reporting-kpi",
+      "margin-expansion"
+    ],
+    "comparableIds": [
+      "cmp-5",
+      "cmp-8"
+    ],
+    "keyQuestionIds": [
+      "q2",
+      "q3",
+      "q5"
+    ],
+    "thesis": "Standardized operating playbooks and KPI discipline could reduce service variability and improve EBITDA quality.",
+    "watchouts": [
+      "Founder-heavy escalation model",
+      "Execution inconsistency by account"
+    ]
+  }
+]

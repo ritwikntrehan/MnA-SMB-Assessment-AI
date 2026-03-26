@@ -1,0 +1,10 @@
+[
+  {"id":"cmp-1","name":"Summit Tooling Group","industryId":"precision-machining","geographyId":"us-midwest","note":"Operator-led machining platform with stronger ERP adoption."},
+  {"id":"cmp-2","name":"Harbor Industrial Supply","industryId":"industrial-distribution","geographyId":"us-southeast","note":"Distribution peer with disciplined inside-sales playbook."},
+  {"id":"cmp-3","name":"BlueArc Formulations","industryId":"specialty-chemicals","geographyId":"us-texas","note":"Specialty chemical peer with rigorous margin analytics."},
+  {"id":"cmp-4","name":"Northline Contract Works","industryId":"contract-manufacturing","geographyId":"us-midwest","note":"Contract manufacturing operation with mature production dashboards."},
+  {"id":"cmp-5","name":"Vector Freight Partners","industryId":"logistics-services","geographyId":"us-southeast","note":"Logistics services peer with robust carrier scorecards."},
+  {"id":"cmp-6","name":"Keystone Build Components","industryId":"building-products","geographyId":"us-northeast","note":"Building products player with stronger project forecasting."},
+  {"id":"cmp-7","name":"Sterling Med Assemblies","industryId":"med-device-supply","geographyId":"us-west","note":"Medical supply chain operator with tighter traceability stack."},
+  {"id":"cmp-8","name":"AnchorOps Services","industryId":"b2b-software-service","geographyId":"us-west","note":"Software-enabled service with structured customer success motions."}
+]

@@ -1,0 +1,8 @@
+[
+  {"id":"pricing-discipline","name":"Pricing discipline","category":"Commercial","rationale":"Standardized quote governance and segment pricing improve gross margin quality.","expectedImpactLabel":"Medium to high","implementationDifficultyLabel":"Medium"},
+  {"id":"workflow-digitization","name":"Workflow digitization","category":"Digital/Ops","rationale":"Replace manual handoffs with tracked workflows to reduce cycle-time leakage.","expectedImpactLabel":"Medium","implementationDifficultyLabel":"Medium"},
+  {"id":"sales-process","name":"Sales process redesign","category":"Commercial","rationale":"Pipeline stages, account plans, and conversion metrics improve repeatability.","expectedImpactLabel":"Medium","implementationDifficultyLabel":"Low to medium"},
+  {"id":"margin-expansion","name":"Margin expansion program","category":"Financial/Ops","rationale":"Mix management, scrap control, and procurement cadence can unlock EBITDA quality.","expectedImpactLabel":"High","implementationDifficultyLabel":"Medium to high"},
+  {"id":"utilization-visibility","name":"Equipment/utilization visibility","category":"Operations","rationale":"Visibility into run rates and downtime supports throughput planning.","expectedImpactLabel":"Medium","implementationDifficultyLabel":"Medium"},
+  {"id":"reporting-kpi","name":"Reporting and KPI discipline","category":"Management","rationale":"Weekly operating rhythm and leading indicators improve intervention speed.","expectedImpactLabel":"Medium","implementationDifficultyLabel":"Low"}
+]
